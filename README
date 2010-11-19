@@ -1,0 +1,5 @@
+A toy problem to play with google prediction API. 
+The idea is to learn user labels in gmail and predict it for new emails
+
+gmail_csv.py : read the gmail emails and save them in a csv file readable by google predict
+g_predict/ : scripts to intercat with google predict
